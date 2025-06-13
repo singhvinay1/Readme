@@ -43,3 +43,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhvinay1&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/singhvinay1/singhvinay1/blob/output/github-contribution-grid-snake.svg)
