@@ -1,6 +1,10 @@
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm Vinay Singh</h1>
 <h3 align="center" style="color:#1abc9c;">A passionate frontend developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00bfff&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Node.js+Lover;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=singhvinay1&label=Profile%20views&color=00bfff&style=flat" alt="singhvinay1" />
 </p>
@@ -30,6 +34,10 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+</p>
+
 <br/>
 
 <p>
@@ -43,7 +51,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhvinay1&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-
