@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm Vinay Singh</h1>
-<h3 align="center" style="color:#1abc9c;">A passionate frontend developer from India</h3>
+<h3 align="center" style="color:#1abc9c;">A passionate Software Engineer  from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00bfff&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Node.js+Lover;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
