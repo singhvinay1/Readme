@@ -57,3 +57,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anishumar/anishumar/output/github-snake.svg" />
+</picture>
